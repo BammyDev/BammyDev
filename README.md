@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Bammy</h1>
+<h1 align="left">Hola 👋, I'm Bammy</h1>
 <p align="left">I'm a frontend engineer specializing in creating exceptional digital experiences. Over the years, I have had the privilege of working on a variety of projects. At a digital marketing organization, I built corporate websites, e-commerce platforms, and similar projects for both the company and its clients. I have also worked with a real estate company, a web scraping startup, and other diverse ventures. Currently, I'm part of the team actively developing Tech1m, which was featured in Techstars '23. I build and maintain critical components for its frontend, adhering to best practices. In this role, I collaborate closely with cross-functional teams, including developers, designers, product managers, and business owners.</p>
 
 - 🔭 I’m currently working on [Tech1M Company App](https://business.tech1m.com)
